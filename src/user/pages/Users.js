@@ -6,10 +6,10 @@ const Users = () => {
   const USERS = [
     {
       id: 'u1',
-      name: 'Max Schwarz',
+      name: 'Niraj Gupta',
       image:
-        'https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
-      places: 3
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLaxoxdaEr4NOxRUPpqQ9Shb7mOcHn9zzR_Q&usqp=CAU',
+      places: 1
     }
   ];
 
